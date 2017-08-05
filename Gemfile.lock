@@ -24,6 +24,3 @@ DEPENDENCIES
   minitest
   rack-test
   sinatra
-
-BUNDLED WITH
-   1.14.3
